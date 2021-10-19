@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Replace Tire",
+      "price": 2000,
+      "time": 2,
+      "img": "https://i.ibb.co/0DmnZ9T/replace-tiar.jpg",
+      "id": 1
+    },
+    {
+      "name": "Electric Vehicle Charge",
+      "price": 1500,
+      "time": 3,
+      "img": "https://i.ibb.co/wBS4Wxb/electric-car-charge.jpg",
+      "id": 2
+    },
+    {
+      "name": "AC Box Repair",
+      "price": 8000,
+      "time": 5,
+      "img": "https://i.ibb.co/h7C72YD/ac-box-repair.jpg",
+      "id": 3
+    },
+    {
+      "name": "Car Battery Change",
+      "price": 6000,
+      "time": 3.5,
+      "img": "https://i.ibb.co/wKKVkRL/battery-cahnge.jpg",
+      "id": 4
+    },
+    {
+      "name": "Car Body Repair",
+      "price": 30000,
+      "time": 72,
+      "img": "https://i.ibb.co/JFh8tht/car-body-repair.jpg",
+      "id": 5
+    },
+    {
+      "name": "Headlight Repair",
+      "price": 7500,
+      "time": 4,
+      "img": "https://i.ibb.co/x8YRmv7/headlight-repair.jpg",
+      "id": 6
+    },
+    {
+      "name": "Refill Fuel",
+      "price": 1500,
+      "time": 0.1,
+      "img": "https://i.ibb.co/cbc6GC4/refill-fuel.jpg",
+      "id": 7
+    },
+    {
+      "name": "Car Maintainence",
+      "price": 10000,
+      "time": 48,
+      "img": "https://i.ibb.co/2N0NP43/car-maintainence.jpg",
+      "id": 8
+    }
+  ]

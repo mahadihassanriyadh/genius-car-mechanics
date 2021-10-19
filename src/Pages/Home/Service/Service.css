@@ -1,0 +1,12 @@
+.service-container{
+    background-color: rgb(231, 231, 231);
+    padding: 5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.service-container img{
+    width: 100%;
+    border-radius: 10px
+}
+
+

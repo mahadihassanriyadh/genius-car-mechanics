@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Andrew Smith",
+      "expertize": "Car Engine Expert",
+      "img": "https://i.ibb.co/RPQJMq6/Untitled-design-15.png",
+      "id": 1
+    },
+    {
+      "name": "Kim Cook",
+      "expertize": "Polish Expert",
+      "img": "https://i.ibb.co/f25PWz0/Untitled-design-16.png",
+      "id": 2
+    },
+    {
+      "name": "Dale Carn",
+      "expertize": "Tire Expert",
+      "img": "https://i.ibb.co/23B1mQ7/Untitled-design-17.png",
+      "id": 3
+    },
+    {
+      "name": "Ron Weisly",
+      "expertize": "Paint Expert",
+      "img": "https://i.ibb.co/8bWbb6H/Untitled-design-18.png",
+      "id": 4
+    },
+    {
+      "name": "Kim Kardish",
+      "expertize": "Manager",
+      "img": "https://i.ibb.co/ZMg3gkR/Untitled-design-19.png",
+      "id": 5
+    }
+  ]
