@@ -1,8 +1,10 @@
 // import Button from '@restart/ui/esm/Button';
 import React from 'react';
 import { Form, Button, Container } from 'react-bootstrap';
+import useAuth from '../../../hooks/useAuth';
 import googleImg from '../../../images/icons/google.png'
 const Login = () => {
+    const { signInUsingGoogle } = useAuth();
     return (
         <Container>
             <h2>Please Login</h2>
@@ -27,7 +29,7 @@ const Login = () => {
                 </Button>
             </Form>
             <br />
-            <Button variant="light"><img className="img-fluid" src={googleImg} alt="" /> Login With Google</Button>
+            <Button onClick={signInUsingGoogle} variant="light"><img className="img-fluid" src={googleImg} alt="" /> Login With Google</Button>
         </Container>
     );
 };
